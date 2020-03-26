@@ -7,14 +7,14 @@ Be the Hero will be cloud-enabled, mobile-ready, ReactJS and React Native powere
 ## Installation
 Create some folder on your pc, then bash to this on. With your best command prompt:
 
-###First:
+#### First:
 ```sh
 $ cd backend
 $ yarn install
 ```
 to install all project dependencies.
 
-###Second:
+#### Second:
 ```sh
 $ cd backend
 $ yarn start
