@@ -18,7 +18,7 @@ Second:
 $ cd backend
 $ yarn start
 ```
-
+to start the backend server
 
 License
 ----
