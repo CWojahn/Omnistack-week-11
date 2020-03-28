@@ -12,14 +12,33 @@ Create some folder on your pc, then bash to this on. With your best command prom
 $ cd backend
 $ yarn install
 ```
-to install all project dependencies.
+to install all backend dependencies.
 
 #### Second:
 ```sh
-$ cd backend
 $ yarn start
 ```
 to start the backend server
+
+#### Third:
+```sh
+$ yarn install
+```
+to install all react dependencies.
+
+#### Fourth:
+```sh
+$ cd frontend
+$ yarn install
+```
+to install all frontend dependencies.
+
+#### Fifth:
+```sh
+$ yarn start
+```
+to start the frontend server
+
 
 License
 ----
