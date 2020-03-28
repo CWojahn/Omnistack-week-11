@@ -30,6 +30,27 @@ $ yarn start
 ```
 to install frontend dependencies and start the frontend server.
 
+#### Fourth:
+```sh
+$ cd mobile
+$ yarn install
+$ yarn start
+```
+to install frontend dependencies and start the frontend server.
+
+
+#### For future search:
+```sh
+$ npm install -g expo-cli
+$ expo init mobile
+$ cd mobile
+$ yarn add @react-navigation/native
+$ expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+$ yarn add @react-navigation/stack
+$ yarn start
+```
+to install frontend dependencies and start the frontend server.
+
 
 License
 ----
