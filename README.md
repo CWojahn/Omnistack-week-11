@@ -9,35 +9,26 @@ Create some folder on your pc, then bash to this on. With your best command prom
 
 #### First:
 ```sh
-$ cd backend
 $ yarn install
 ```
-to install all backend dependencies.
+to install react dependencies.
 
 #### Second:
 ```sh
+$ cd backend
+$ yarn install
+$ npx knex migrate:latest
 $ yarn start
 ```
-to start the backend server
+to install backend dependencies and start the backend server.
 
 #### Third:
 ```sh
-$ yarn install
-```
-to install all react dependencies.
-
-#### Fourth:
-```sh
 $ cd frontend
 $ yarn install
-```
-to install all frontend dependencies.
-
-#### Fifth:
-```sh
 $ yarn start
 ```
-to start the frontend server
+to install frontend dependencies and start the frontend server.
 
 
 License
