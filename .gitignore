@@ -3,3 +3,7 @@ backend/node_modules/
 backend/src/database/db.sqlite
 frontend/node_modules/
 mobile/node_modules/
+mobile/my-cert.pem
+mobile/my-csr.pem
+mobile/my-key.pem
+mobile/.env
